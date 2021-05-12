@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2021-05-08T19:49:54.4893326+02:00">
+    <Messages>Publishing target HTML5...
+Publish skipped: No destination selected.
+Saving log to "C:\Users\morven\Desktop\Podyplomowe\Flare\357app-output\Output\HTML5\HTML5.mclog"
+</Messages>
+    <Warnings />
+    <Errors>
+        <LogEntry File="../../../Project/Targets/HTML5.fltar" Message="Publish skipped: No destination selected.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Publisher" Target="HTML5" ErrorID="140001" />
+    </Errors>
+</MadCapLog>
